@@ -15,8 +15,7 @@ body{
 }
 @keyframes wholepage {
     from{opacity: 0;}
-    to{opacity: 100%;}
-    
+    to{opacity: 100%;} 
 }
 p{
     color: gray;
@@ -29,17 +28,11 @@ header .hero{
     font-size: 28px;
     font-weight:lighter;
     box-shadow: 0 0px 6px 3px gray;
-   
-  
-  
-   
     width: 100%;
-   
     display:flex;
     justify-content: space-between;
     align-items: center;
     background-color: white;
-
 }
 .logo{
 
@@ -577,9 +570,4 @@ footer{
 
 }
 
-.navbar a{
-    position: absolute;
-    top: 0;
-    right: 0;
-    display: block;
-}
+
